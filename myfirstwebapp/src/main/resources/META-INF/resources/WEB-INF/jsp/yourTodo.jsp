@@ -14,6 +14,7 @@
 		<h1>Enter Todo Details:</h1>
 		<form method="post">
 			Description : <input type="text" name="description"/>
+			Target Date : <input type="date" name="targetDate"/>
 			<input type="submit" class="btn btn-success"/>
 		</form>
 	</div>
